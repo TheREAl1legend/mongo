@@ -1,0 +1,91 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "fBzwk_bWP3BzBkYC0qsi8",
+      "type": "freedraw",
+      "x": 825.0604436739906,
+      "y": 118.91142746520948,
+      "width": 0.0001,
+      "height": 0.0001,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#eebefa",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 2054513346,
+      "version": 88,
+      "versionNonce": 1839817182,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1739166318224,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0001,
+          0.0001
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        0.0001,
+        0.0001
+      ]
+    },
+    {
+      "id": "2Wb4O_x1VyObWy8sb4o9U",
+      "type": "text",
+      "x": 713.2501466007416,
+      "y": 145.87624834380472,
+      "width": 288.5625,
+      "height": 10.37413245410041,
+      "angle": 0,
+      "strokeColor": "#343a40",
+      "backgroundColor": "#eebefa",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 839942658,
+      "version": 598,
+      "versionNonce": 894852254,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1739166373372,
+      "link": null,
+      "locked": false,
+      "text": "MongoDB is an open-source document based no-sql database.",
+      "fontSize": 8.645110378417009,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 8,
+      "containerId": null,
+      "originalText": "MongoDB is an open-source document based no-sql database.",
+      "lineHeight": 1.2
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#fdf8f6"
+  },
+  "files": {}
+}
