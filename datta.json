@@ -1,0 +1,13 @@
+{
+    "_id": {
+      "$oid": "67a9a5dbbc4c9c897478d171"
+    },
+    "name": "Gurpratik",
+    "contact": {
+      "$numberLong": "8945450001"
+    },
+    "gender": "male",
+    "address": "Chandigarh"
+}
+
+  
